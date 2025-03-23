@@ -3,11 +3,11 @@ import React, { useState } from 'react';
 
 export default function Portfolio() {
   const projects = [
-    { id: 1, videoUrl: "/video1.mp4", thumbnailUrl: "/th3.png" },
-    { id: 2, videoUrl: "/video2.mp4", thumbnailUrl: "/th2.png" },
     { id: 3, videoUrl: "/video3.mp4", thumbnailUrl: "/th1.png" },
+    { id: 1, videoUrl: "/final_comp_prob3.mp4", thumbnailUrl: "/tth1.png" },
     { id: 4, videoUrl: "/video4.mp4", thumbnailUrl: "/th4.png" },
-    { id: 5, videoUrl: "/video5.mp4", thumbnailUrl: "/th5.png" },
+    { id: 2, videoUrl: "/cola_prob3.mp4", thumbnailUrl: "/tth2.png" },
+    { id: 2, videoUrl: "/shoe_ad_prob3.mp4", thumbnailUrl: "/tth3.png" },
   ];
 
   const [isOpen, setIsOpen] = useState(false);

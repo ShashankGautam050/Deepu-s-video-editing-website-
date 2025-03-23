@@ -15,7 +15,7 @@ export default function Header() {
       </h1>
       <nav className="flex space-x-4">
         <Link to="/about" className="hover:text-gray-400 transition-colors">About</Link>
-          <Link to="/pricing" className="hover:text-gray-400">Pricing</Link>
+          {/* <Link to="/pricing" className="hover:text-gray-400">Pricing</Link> */}
         
       </nav>
     </header>
