@@ -5,7 +5,7 @@ export default function Portfolio() {
   const projects = [
     // { id: 3, videoUrl: "/video3.mp4", thumbnailUrl: "/th1.png" },
     { id: 1, videoUrl: "/final_comp_prob3.mp4", thumbnailUrl: "/tth1.png" },
-    { id: 2, videoUrl: "/whyUs.mp4", thumbnailUrl: "/whyUS.png" },
+    { id: 2, videoUrl: "/whyUS.mp4", thumbnailUrl: "/whyUs.png" },
     { id: 3, videoUrl: "/cola_prob3.mp4", thumbnailUrl: "/tth2.png" },
     { id: 4, videoUrl: "/shoe_ad_prob3.mp4", thumbnailUrl: "/tth3.png" },
   ];
